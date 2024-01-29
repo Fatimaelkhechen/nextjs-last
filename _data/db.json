@@ -1,0 +1,26 @@
+{
+    "tickets": [
+      {
+        "id": "1",
+        "title": "Fix the footer links please",
+        "body": " hello everyone",
+        "priority": "low",
+        "user_email": "fatima@app.dev"
+      },
+      {
+        "id": "2",
+        "title": "Add in a new stylesheet",
+        "body": "hello",
+        "priority": "medium",
+        "user_email": "fatima@app.dev"
+      },
+      {
+        "id": "3",
+        "title": "Fix the footer links",
+        "body": "hello",
+        "priority": "high",
+        "user_email": "fatima@app.dev"
+      }
+    ]
+  }
+  
